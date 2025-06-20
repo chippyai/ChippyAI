@@ -1,16 +1,21 @@
-## Hi there 👋
+# ChippyAI - Your AI Browser Assistant
 
-<!--
-**chippyai/ChippyAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![ChippyAI Logo](https://ibb.co/P3096NC) 
 
-Here are some ideas to get you started:
+Unleash the potential of AI writing and GPT on any website with Chippy — your AI browser assistant.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Features
+- AI Writer with ChatGPT integration
+- On-Page Search functionality
+- Effortless text selection and automation
+- Suggested prompts and follow-up questions
+- Privacy-focused design
+
+## Installation
+Get the Chrome extension: [ChippyAI on Chrome Web Store](https://chromewebstore.google.com/detail/chippy-ai-writer-with-gpt/fbcdphjbmledkhefgamfaleobmegjojl)
+
+## Usage
+Press `Ctrl/Cmd + J` on any webpage to activate ChippyAI
+
+## Support
+For questions or support, contact us on [Twitter](https://x.com/ChippyAI_)
